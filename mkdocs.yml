@@ -1,7 +1,7 @@
 site_name: Template de Entrega
 site_author: Sandmann, H.
-site_url: https://hsandmann.github.io/documentation.template
-repo_url: https://github.com/hsandmann/documentation.template
+site_url: https://futury2.github.io/documentation.template
+repo_url: https://github.com/futury2/documentation.template
 repo_name: github/documentation.template
 
 theme:
@@ -110,7 +110,7 @@ plugins:
       enable_creation_date: true
   - git-authors
   - git-committers:
-      repository: hsandmann/documentation.template
+      repository: futury2/documentation.template
       branch: main
   - search
   - badges
@@ -147,5 +147,5 @@ nav:
     - Roteiro 2: ./roteiro2/index.md
     - Roteiro 3: ./roteiro3/index.md
     - Roteiro 4: ./roteiro4/index.md
-    - Notebook 1: ./notebook1/ex1_data.ipynb
+    - Notebook 1: ./docs/notebook1/resolucao_data.ipynb
   - Projeto: ./projeto/index.md
