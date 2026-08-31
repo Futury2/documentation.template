@@ -3,19 +3,12 @@
 
 ???+ info inline end "Edição"
 
-    2025.1
+    2026.2
 
 
 ## Grupo/Kit X
 
-1. João da Silva
-1. Pedro de Souza
-1. Maria Oliveira
-1. Grupo K
-    - João da Silva
-    - Pedro de Souza
-
-
+1. Matheus AUgusto Braido
 
 !!! tip "Instruções"
 
@@ -24,7 +17,8 @@
 
 ## Entregas
 
-- [x] Roteiro 1 - Data 23/02/2025
+- [X] Exercicio 1 - Data 01/08/2026
+- [ ] Roteiro 1
 - [ ] Roteiro 2
 - [ ] Roteiro 3
 - [ ] Roteiro 4
