@@ -8,7 +8,7 @@
 
 ## Grupo/Kit X
 
-1. Matheus AUgusto Braido
+1. Matheus Augusto Braido
 
 !!! tip "Instruções"
 
